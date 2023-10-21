@@ -6,7 +6,7 @@ Hello, I'm Harvinder Singh, a dedicated computer programming student at Georgian
 
 About Me:
 
-I am currently pursuing a Bachelor of Computer Science degree at Georgian College.
+I am currently pursuing a Diploma in Computer Programming  at Georgian College.
 My education has equipped me with a strong foundation in computer programming and software development.
 I am enthusiastic about exploring new technologies and solving real-world problems through programming.
 Skills:
@@ -23,7 +23,7 @@ Experience:
 
 Georgian College - Computer Programming Student (Current)
 
-Enrolled in the Bachelor of Computer Science program with a focus on programming.
+Enrolled in the diploma of Computer programming  with a focus on programming.
 Collaborated with fellow students on various coding projects and assignments.
 Gained valuable experience in software development and problem-solving.
 Projects:
@@ -46,9 +46,5 @@ LinkedIn: LinkedIn Profile
 Acknowledgments:
 
 I acknowledge the resources and materials provided by the faculty at Georgian College, which have been instrumental in my learning journey.
-Resume/CV:
 
-Link to Resume (PDF)
-Live Portfolio Link:
 
-Portfolio Website
